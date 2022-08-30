@@ -1,5 +1,21 @@
 html {
     scroll-behavior: smooth;
   }
-
+  #welcome-section{
+    height: 100vh;
+  }
+  #projects{
+    width: 100%;
+  }
+  #cards{
+    width: 80%;
+    border: 2px solid green;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+  }
+  .forces{
+    margin: 20px;
+    grid-template-columns: auto;
+  }
   
